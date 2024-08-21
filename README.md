@@ -55,6 +55,14 @@ Acceptance testing is a type of software testing that determines whether or not 
 #Part 2: Introduction to AI and Prompt Engineering
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-
+Prompt engineering makes it easy for users to obtain relevant results in the first prompt and it enhances the user-AI interaction so the AI understands the user's intention even with minimal input.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Give me a recipe of a cake.
+Give me a recipe of a chocolate cake.
+Be as Specific and Detailed as Possible
+
+
+
+
+
