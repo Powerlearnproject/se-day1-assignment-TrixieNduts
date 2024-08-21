@@ -4,19 +4,29 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-
+software engineering is a branch of computer science thats involved in designing, developing,t esting and maintanance of software applications. software enginners apply engineering principles and programming language knowledge to build end user software solotions.
+software enginering enables the creation of software applications and systems that power various aspects of modern life, including communication, commerce, entertainment, and healthcare.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-
+face recognition this is mostlty used by law enforcements to identify criminals 
+social apps like facebook, instagram, TikTok and X this are some of the social spaces that people form allover the world can link up and chat has made communication very easy.
+meeting spaces like Zoom and Google meets has made working easier, as on can make official meetings from anywhere anytime as long as you have internet connection.
 
 List and briefly explain the phases of the Software Development Life Cycle.
-
+Planning- this involves defining the software purpose and scope.
+requirements- this involves identifying and recording precise requirements of the end user.
+design- this involves building a framework
+software development- this involves converting the software design into tangible code.
+testing- testing involves a thorough examination of the software for any bugs or glitches that might have slipped through during coding
+deployment- here we present it to the users by pushing to the production environment
+maintenance- the goal is to adapt to the software’s changing needs
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+Waterfall is ideal if a project has stable and clearly defined requirements that are unlikely to change and has a timeline while Agile is considered when requirements are unclear or expected to evolve has no timeline.
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-
+A software developer is responsible for writing the code and developing the entire software product, a Quality Assurance Engineer designs test plans, scenarios, scripts, or procedures and  a Project Manager oversees the entire software development process, from initial planning and design to developing and testing technical aspects of the system and timely completion. 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
